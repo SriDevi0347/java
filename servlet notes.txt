@@ -1,0 +1,27 @@
+jspInit-use to initialise the method
+
+
+once the aplllication is stopped init method is destroyed
+
+life cycle 
+every request service method is called
+
+Service cannot be overrided
+
+web containers apchetomcat and java container
+
+advanced verson of jboss is wildfly
+
+web server:handles call for http protocol only http prototcol
+
+
+dynamic generation of html pages is servlet
+
+servlet can work on any server
+
+
+Since HTTP is a web oriented protocol, thus we have taken the term to
+be as “Web Server”
+
+web container is pat of web server
+
